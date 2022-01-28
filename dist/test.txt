@@ -1,1 +1,4 @@
-prueba 3
+Modificar y guardar fichero
+ir al icono de git
+click al mas en fichero modificado (almacenar cambios provisionalmente)
+
