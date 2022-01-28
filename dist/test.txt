@@ -1,4 +1,5 @@
 Modificar y guardar fichero
 ir al icono de git
 click al mas en fichero modificado (almacenar cambios provisionalmente)
-
+añadir commit en cuadro de texto que aparece debajo del nombre del repo
+Ctrl Enter para confirmar el commit
